@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: "Alliance";
+    src: local("AllianceNo1-Bold"), url(./assets/fonts/AllianceNo1-Bold.ttf) format("truetype");
+}
+
+body {
+    margin: 0px;
+    background-color: #fff;
+}
